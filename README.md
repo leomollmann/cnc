@@ -26,6 +26,9 @@ My journey to lean and build a CNC, from zero to top 1%
 - [ ] 2x [Patins HGH20](https://oceantech-automation.com.br/produtos/patins-sem-aba-20mm/?variant=370055977) -> R$ 160
 - [ ] 2x [25cm Eixo linear 20mm](https://oceantech-automation.com.br/produtos/guia-linear-hgr20-valor-por-centimetro/?variant=385346549) -> R$ 90
 - [ ] 3m [fio blindado 2.5mm](https://oceantech-automation.com.br/produtos/cabo-blindado-4-vias-25mm-preco-por-metro/?variant=386066255) -> R$ 77
-- [ ] 10m [mangueira pneumática 10mm](https://produto.mercadolivre.com.br/MLB-3830612509-10m-mangueira-pneumatica-flexivel-10mm-tubo-pu-150psi10bar-_JM) -> R$ 45
+- [ ] 20m [mangueira pneumática 10mm](https://produto.mercadolivre.com.br/MLB-3830612509-10m-mangueira-pneumatica-flexivel-10mm-tubo-pu-150psi10bar-_JM) -> R$ 75
 - [ ] 2x conector fêmea para mangueira 10mm
-- [ ] bomba automotiva
+- [ ] 1x [mini bomba 12v](https://produto.mercadolivre.com.br/MLB-3660399513-mini-bomba-dagua-12v-800-litrosh-para-fontes-de-jardim-_JM#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=0&reco_backend_type=low_level&reco_id=eb573313-117c-426f-8277-f25827eb89fb) -> R$ 41
+- [ ] 1x sensor fluxo água
+- [ ] 1x sensor temperatura água
+- [ ] 1x sensor nível água

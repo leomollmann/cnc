@@ -4,7 +4,7 @@ My journey to lean and build a CNC, from zero to top 1%
 # Tamanho
 - X: 1000mm
 - Y: 1000mm
-- Z: 200mm
+- Z: 250mm
 
 # Lista de materiais
 - [x] 1x [Spindle refrigeração liquida 3CV](https://oceantech-automation.com.br/produtos/spindle-gdz-2-2kw-3cv-er20-liquido-refrigeracao-liquida-referencia-cod-9937/?variant=393632253) -> R$ 1290
@@ -23,7 +23,7 @@ My journey to lean and build a CNC, from zero to top 1%
 - [ ] 4x [Perfil de alumínio 60x30](https://loja.forsetisolucoes.com.br/perfil-estrutural-em-aluminio-30x60-basico-preto-canal-8-t-slot)
 - [x] 4x [Suporte para castanha SBF16](https://oceantech-automation.com.br/produtos/suporte-da-castanha/?variant=349312459) -> R$ 156
 - [x] 1x [Suporte para spindle 80mm](https://oceantech-automation.com.br/produtos/suportes-para-spindles/?variant=368832043) -> R$ 149
-- [x] 2x [Patins HGH20]([https://oceantech-automation.com.br/produtos/patins-sem-aba-20mm/?variant=370055977](https://produto.mercadolivre.com.br/MLB-3966873481-patins-com-abas-para-guia-linear-hcw-20mm-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic)) -> R$ 160
+- [x] 2x [Patins HGH20](https://produto.mercadolivre.com.br/MLB-3966873481-patins-com-abas-para-guia-linear-hcw-20mm-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic) -> R$ 160
 - [x] 2x [25cm Eixo linear 20mm](https://oceantech-automation.com.br/produtos/guia-linear-hgr20-valor-por-centimetro/?variant=385346549) -> R$ 90
 - [x] 3m [fio blindado 2.5mm](https://oceantech-automation.com.br/produtos/cabo-blindado-4-vias-25mm-preco-por-metro/?variant=386066255) -> R$ 77
 - [x] 20m [mangueira pneumática 10mm](https://produto.mercadolivre.com.br/MLB-3830612509-10m-mangueira-pneumatica-flexivel-10mm-tubo-pu-150psi10bar-_JM) -> R$ 75

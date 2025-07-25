@@ -15,7 +15,7 @@ My journey to lean and build a CNC, from zero to top 1%
 - [x] 3x [Fuso trapezoidal com esferas 1000mm SBF16](https://oceantech-automation.com.br/produtos/fuso-com-castanha-sfu-1605/?variant=702997784) -> R$ 837
 - [x] 1x [Fuso trapezoidal com esferas 300mm SBF16](https://oceantech-automation.com.br/produtos/fuso-com-castanha-sfu-1605/?variant=702997733) -> R$ 196
 - [x] 4x [Mancal BKBF](https://oceantech-automation.com.br/produtos/mancais-bkbf/?variant=1042252519) -> R$ 596
-- [ ] 4x [Acoplamento flexível 8mm -> 10mm](https://produto.mercadolivre.com.br/MLB-3747673859-8mm-x-10mm-eixo-de-ameixa-flexivel-acoplamento-cnc-motor-de-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic)
+- [x] 4x [Acoplamento flexível 8mm -> 10mm](https://produto.mercadolivre.com.br/MLB-3747673859-8mm-x-10mm-eixo-de-ameixa-flexivel-acoplamento-cnc-motor-de-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic) -> R$ 196
 - [x] 1x [Fonte 36V 500W](https://oceantech-automation.com.br/produtos/fonte-chaveada-36v-13-8a-500w/) -> R$ 189
 - [x] 6x [Chave de fim de curso](https://oceantech-automation.com.br/produtos/fim-de-curso-kw11-3-vias/) -> R$ 13
 - [x] 2x [trilho para fios](https://oceantech-automation.com.br/produtos/esteira-porta-cabos-10x20x1000mm/) -> R$ 64

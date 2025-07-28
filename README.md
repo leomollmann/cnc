@@ -1,5 +1,5 @@
 # Leo's CNC
-My journey to lean and build a CNC, from zero to top 1%
+My journey to learn and build a CNC, from zero to top 1%
 
 # Tamanho
 - X: 1000mm
@@ -20,7 +20,6 @@ My journey to lean and build a CNC, from zero to top 1%
 - [x] 6x [Chave de fim de curso](https://oceantech-automation.com.br/produtos/fim-de-curso-kw11-3-vias/) -> R$ 13
 - [x] 2x [trilho para fios](https://oceantech-automation.com.br/produtos/esteira-porta-cabos-10x20x1000mm/) -> R$ 64
 - [x] 7m [fio blindado 1mm](https://oceantech-automation.com.br/produtos/cabo-blindado-4-vias-1mm-preco-por-metro/) -> R$ 112
-- [ ] 4x [Perfil de alumínio 60x30](https://loja.forsetisolucoes.com.br/perfil-estrutural-em-aluminio-30x60-basico-preto-canal-8-t-slot)
 - [x] 4x [Suporte para castanha SBF16](https://oceantech-automation.com.br/produtos/suporte-da-castanha/?variant=349312459) -> R$ 156
 - [x] 1x [Suporte para spindle 80mm](https://oceantech-automation.com.br/produtos/suportes-para-spindles/?variant=368832043) -> R$ 149
 - [x] 2x [Patins HGH20](https://produto.mercadolivre.com.br/MLB-3966873481-patins-com-abas-para-guia-linear-hcw-20mm-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic) -> R$ 160
@@ -32,3 +31,7 @@ My journey to lean and build a CNC, from zero to top 1%
 - [ ] 1x sensor fluxo água
 - [ ] 1x sensor temperatura água
 - [ ] 1x sensor nível água
+- [ ] madeira http://ferragem3irmaos.com.br/index.php?route=product/product&product_id=3592
+- [ ] aluminio https://www.aluminioalure.com.br/lisas
+- [ ] parafuso https://www.parafusofacil.com.br/parafuso-allen/parafuso-allen-chato/
+- [ ] porca https://oceantech-automation.com.br/produtos/porca-deslizante-martelo-t-slot-base-30/?variant=1194546188

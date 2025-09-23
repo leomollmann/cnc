@@ -16,7 +16,7 @@ My journey to learn and build a CNC, from zero to top 1%
 - [x] 1x [Fuso trapezoidal com esferas 300mm SBF16](https://oceantech-automation.com.br/produtos/fuso-com-castanha-sfu-1605/?variant=702997733) -> R$ 196
 - [x] 4x [Mancal BKBF](https://oceantech-automation.com.br/produtos/mancais-bkbf/?variant=1042252519) -> R$ 596
 - [x] 4x [Acoplamento flexível 8mm -> 10mm](https://produto.mercadolivre.com.br/MLB-3747673859-8mm-x-10mm-eixo-de-ameixa-flexivel-acoplamento-cnc-motor-de-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic) -> R$ 196
-- [x] 1x [Fonte 36V 500W](https://oceantech-automation.com.br/produtos/fonte-chaveada-36v-13-8a-500w/) -> R$ 189
+- [x] 2x [Fonte 42V 500W](https://oceantech-automation.com.br/produtos/fonte-chaveada-36v-13-8a-500w/) -> R$ 368
 - [x] 6x [Chave de fim de curso](https://oceantech-automation.com.br/produtos/fim-de-curso-kw11-3-vias/) -> R$ 13
 - [x] 2x [trilho para fios](https://oceantech-automation.com.br/produtos/esteira-porta-cabos-10x20x1000mm/) -> R$ 64
 - [x] 7m [fio blindado 1mm](https://oceantech-automation.com.br/produtos/cabo-blindado-4-vias-1mm-preco-por-metro/) -> R$ 112
@@ -31,7 +31,12 @@ My journey to learn and build a CNC, from zero to top 1%
 - [ ] 1x sensor fluxo água
 - [ ] 1x sensor temperatura água
 - [ ] 1x sensor nível água
+- [x] 4x [1m extrusão 30x60](https://oceantech-automation.com.br/produtos/perfil-estrutural-aluminio-30x60-2-0mm-canal-8-valor-por-centimetro/) 
 - [ ] madeira http://ferragem3irmaos.com.br/index.php?route=product/product&product_id=3592
-- [ ] aluminio https://www.aluminioalure.com.br/lisas
-- [ ] parafuso https://www.parafusofacil.com.br/parafuso-allen/parafuso-allen-chato/
-- [ ] porca https://oceantech-automation.com.br/produtos/porca-deslizante-martelo-t-slot-base-30/?variant=1194546188
+- [x] 2x [Chapa de alumínio lisa 3/4" 15cm x 30cm](https://www.aluminioalure.com.br/lisas) -> R$ 486
+- [x] 1x [Chapa de alumínio lisa 1/2" 15cm x 30cm](https://www.aluminioalure.com.br/lisas) -> R$ 135
+- [x] 1x [Chapa de alumínio lisa 1/2" 10cm x 15cm](https://www.aluminioalure.com.br/lisas) -> R$ 47
+- [x] 1x [Chapa de alumínio lisa 1/2" 10cm x 10cm](https://www.aluminioalure.com.br/lisas) -> R$ 33
+- [x] 50x [porca T M5](https://oceantech-automation.com.br/produtos/porca-deslizante-martelo-t-slot-base-30/?variant=1194546188) -> R$ 75
+- [ ] 50x [parafuso M5 x 10mm chato]()
+https://www.lutecparafusoferramenta.com.br/parafuso-allen

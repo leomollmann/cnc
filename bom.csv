@@ -1,0 +1,106 @@
+,Part Number,Part Name,Revision/Version,Quantity,Description,Item Number,Lifecycle,Revision,State,Change Order,Material
+,2025-09-30-21-19-09-848,Main CNC,,1,,,,,Working,
+1,2025-09-30-21-19-11-455,z-axis assembly,,1,,,,,Working,
+1.1,2025-09-30-21-19-09-849,Spindle,,1,,,,,Working,,(Various)
+1.2,2025-09-30-21-19-11-458,HGH20CAZ0C v1,,2,,,,,Working,
+1.2.1,2025-09-30-21-19-11-460,"HGH20CAZ0C, BLOCK OIL FILLING PART",,1,,,,,Working,,Steel
+1.2.2,2025-09-30-21-19-11-459,"HGH20CAZ0C, BLOCK, MIDSECTION",,1,,,,,Working,,Steel
+1.2.3,2025-09-30-21-19-11-461,"HGH20CAZ0C, SCREW HEAD",,4,,,,,Working,,Steel
+1.3,2025-09-30-21-19-11-462,M8 1.0 25mm socket,,4,,,,,Working,,Steel
+1.4,2025-09-30-21-19-15-203,Ballscrew nut,,1,,,,,Working,
+1.4.1,2025-09-30-21-19-11-465,M5 0.8 25mm socket,,6,,,,,Working,,Steel
+1.4.2,2025-09-30-21-19-11-457,Nut socket,,1,,,,,Working,,Aluminum
+1.5,2025-09-30-21-19-11-671,shim:1,,1,,,,,Working,,Steel
+1.6,2025-09-30-21-19-11-669,rail plate:1,,1,,,,,Working,,Aluminum
+1.7,2025-09-30-21-19-11-668,z-plate,,1,,,,,Working,,Aluminum
+1.8,2025-09-30-21-19-11-672,shim:2,,1,,,,,Working,,Steel
+1.9,2025-09-30-21-19-11-670,rail plate:2,,1,,,,,Working,,Steel
+1.10,2025-09-30-21-20-04-373,M5 0.8 35mm flat,,8,,,,,Working,,Steel
+1.11,2025-09-30-21-20-04-374,M5 0.8 25mm flat,,4,,,,,Working,,Steel
+2,2025-09-30-21-19-15-206,y-axis assembly,,1,,,,,Working,
+2.1,2025-09-30-21-19-15-207,StepperNema23 v1,,1,,,,,Working,
+2.1.1,2025-09-30-21-19-15-214,Eje,,1,,,,,Working,,Steel
+2.1.2,2025-09-30-21-19-15-208,Cuerpo,,1,,,,,Working,,Steel
+2.1.3,2025-09-30-21-19-15-213,ScrewM3x10,,4,,,,,Working,,Steel
+2.1.4,2025-09-30-21-19-15-210,ProtectorCables,,1,,,,,Working,,Steel
+2.1.5,2025-09-30-21-19-15-211,Frente,,1,,,,,Working,,Steel
+2.1.6,2025-09-30-21-19-15-212,ArandelaFrente,,1,,,,,Working,,Steel
+2.1.7,2025-09-30-21-19-15-209,Base,,1,,,,,Working,,Steel
+2.2,2025-09-30-21-19-13-022,M5 0.8 10mm socket,,7,,,,,Working,,Steel
+2.3,2025-09-30-21-19-15-220,M5 0.8 40mm socket,,4,,,,,Working,,Steel
+2.4,2025-09-30-21-19-15-221,M5 0.8 nut,,8,,,,,Working,,Steel
+2.5,2025-09-30-21-19-11-453,Z-Axis Linear Rail v1,,2,,,,,Working,,Steel
+2.6,2025-09-30-21-19-11-454,BF12 End Stop v1,,1,,,,,Working,,Steel
+2.7,2025-09-30-21-19-15-203,Ballscrew nut,,1,,,,,Working,
+2.7.1,2025-09-30-21-19-11-465,M5 0.8 25mm socket,,6,,,,,Working,,Steel
+2.7.2,2025-09-30-21-19-11-457,Nut socket,,1,,,,,Working,,Aluminum
+2.8,2025-09-30-21-19-11-466,BK12 End Stop v1,,1,,,,,Working,,Steel
+2.9,2025-09-30-21-19-13-021,SBR16UU,,4,SBR16UU,,,,Working,,Aluminum
+2.10,2025-09-30-21-19-22-980,M6 1.0 45mm socket,,6,,,,,Working,,Steel
+2.11,2025-09-30-21-19-22-979,M5 0.8 20mm socket,,17,,,,,Working,,Steel
+2.12,2025-09-30-21-19-43-410,y-axis backplate,,1,,,,,Working,,Aluminum
+2.13,2025-09-30-21-19-11-465,M5 0.8 25mm socket,,12,,,,,Working,,Steel
+3,2025-09-30-21-19-24-236,x-axis assembly,,1,,,,,Working,
+3.1,2025-09-30-21-19-24-237,SBSh616-1000L (50 6),,2,SBSh616-1000L (50 6),,,,Working,,Steel
+3.2,2025-09-30-21-19-11-454,BF12 End Stop v1,,1,,,,,Working,,Steel
+3.3,2025-09-30-21-19-13-021,SBR16UU,,4,SBR16UU,,,,Working,,Aluminum
+3.4,2025-09-30-21-19-43-413,Ballscrew,,1,,,,,Working,,Steel
+3.5,2025-09-30-21-19-15-207,StepperNema23 v1,,1,,,,,Working,
+3.5.1,2025-09-30-21-19-15-214,Eje,,1,,,,,Working,,Steel
+3.5.2,2025-09-30-21-19-15-208,Cuerpo,,1,,,,,Working,,Steel
+3.5.3,2025-09-30-21-19-15-213,ScrewM3x10,,4,,,,,Working,,Steel
+3.5.4,2025-09-30-21-19-15-210,ProtectorCables,,1,,,,,Working,,Steel
+3.5.5,2025-09-30-21-19-15-211,Frente,,1,,,,,Working,,Steel
+3.5.6,2025-09-30-21-19-15-212,ArandelaFrente,,1,,,,,Working,,Steel
+3.5.7,2025-09-30-21-19-15-209,Base,,1,,,,,Working,,Steel
+3.6,2025-09-30-21-19-15-203,Ballscrew nut,,2,,,,,Working,
+3.6.1,2025-09-30-21-19-11-465,M5 0.8 25mm socket,,6,,,,,Working,,Steel
+3.6.2,2025-09-30-21-19-11-457,Nut socket,,1,,,,,Working,,Aluminum
+3.7,2025-09-30-21-19-11-466,BK12 End Stop v1,,1,,,,,Working,,Steel
+3.8,2025-09-30-21-19-22-980,M6 1.0 45mm socket,,6,,,,,Working,,Steel
+3.9,2025-09-30-21-20-08-961,M8 1.25 40mm socket,,8,,,,,Working,,Steel
+3.10,2025-09-30-21-19-15-220,M5 0.8 40mm socket,,6,,,,,Working,,Steel
+3.11,2025-09-30-21-19-13-022,M5 0.8 10mm socket,,22,,,,,Working,,Steel
+3.12,91290A198_Alloy Steel Socket Head Screw,M5 0.8 50mm socket,,4,,,,,Working,,Steel
+3.13,2025-09-30-20-05-10-389,servo spacer (1),,4,,,,,Working,,ABS Plastic
+3.14,2025-09-30-21-20-04-374,M5 0.8 25mm flat,,24,,,,,Working,,Steel
+4,2025-09-30-21-19-47-127,chassi-left,,1,,,,,Working,
+4.1,2025-09-30-21-19-11-454,BF12 End Stop v1,,1,,,,,Working,,Steel
+4.2,2025-09-30-21-19-11-466,BK12 End Stop v1,,1,,,,,Working,,Steel
+4.3,2025-09-30-21-19-24-237,SBSh616-1000L (50 6),,1,SBSh616-1000L (50 6),,,,Working,,Steel
+4.4,2025-09-30-21-19-43-413,Ballscrew,,1,,,,,Working,,Steel
+4.5,2025-09-30-21-19-15-207,StepperNema23 v1,,1,,,,,Working,
+4.5.1,2025-09-30-21-19-15-214,Eje,,1,,,,,Working,,Steel
+4.5.2,2025-09-30-21-19-15-208,Cuerpo,,1,,,,,Working,,Steel
+4.5.3,2025-09-30-21-19-15-213,ScrewM3x10,,4,,,,,Working,,Steel
+4.5.4,2025-09-30-21-19-15-210,ProtectorCables,,1,,,,,Working,,Steel
+4.5.5,2025-09-30-21-19-15-211,Frente,,1,,,,,Working,,Steel
+4.5.6,2025-09-30-21-19-15-212,ArandelaFrente,,1,,,,,Working,,Steel
+4.5.7,2025-09-30-21-19-15-209,Base,,1,,,,,Working,,Steel
+4.6,2025-09-30-21-20-08-961,M8 1.25 40mm socket,,4,,,,,Working,,Steel
+4.7,2025-09-30-21-19-22-980,M6 1.0 45mm socket,,4,,,,,Working,,Steel
+4.8,2025-09-30-21-20-13-544,M5 0.8 45mm socket,,10,,,,,Working,,Steel
+4.9,2025-09-30-21-19-15-221,M5 0.8 nut,,14,,,,,Working,,Steel
+4.10,91290A195_Alloy Steel Socket Head Screw,M5 0.8 35mm socket,,6,,,,,Working,,Steel
+4.11,2025-09-30-19-50-33-937,servo spacer,,4,,,,,Working,,ABS Plastic
+4.12,99461A975_Phillips Rounded Head Thread-Forming Screws,M4 40mm woodscrew,,12,,,,,Working,,Steel
+5,chassi-right,chassi-right,,1,,,,,Working,
+5.1,99461A975_Phillips Rounded Head Thread-Forming Screws,M4 40mm woodscrew,,12,,,,,Working,,Steel
+5.2,91290A195_Alloy Steel Socket Head Screw,M5 0.8 35mm socket,,6,,,,,Working,,Steel
+5.3,SBSh616-1000L (50 6),SBSh616-1000L (50 6)(Mirror),,1,SBSh616-1000L (50 6),,,,Working,,Steel
+5.4,M5 0.8 nut,M5 0.8 nut(Mirror),,14,,,,,Working,,Steel
+5.5,StepperNema23 v1(Mirror),StepperNema23 v1(Mirror),,1,,,,,Working,
+5.5.1,Frente(Mirror),Frente(Mirror),,1,,,,,Working,,Steel
+5.5.2,ScrewM3x10(Mirror),ScrewM3x10(Mirror),,4,,,,,Working,,Steel
+5.5.3,Cuerpo(Mirror),Cuerpo(Mirror),,1,,,,,Working,,Steel
+5.5.4,ProtectorCables(Mirror),ProtectorCables(Mirror),,1,,,,,Working,,Steel
+5.5.5,Base(Mirror),Base(Mirror),,1,,,,,Working,,Steel
+5.5.6,Eje(Mirror),Eje(Mirror),,1,,,,,Working,,Steel
+5.5.7,ArandelaFrente(Mirror),ArandelaFrente(Mirror),,1,,,,,Working,,Steel
+5.6,Ballscrew(Mirror),Ballscrew(Mirror),,1,,,,,Working,,Steel
+5.7,91290A210_Alloy Steel Socket Head Screw,M8 1.25 40mm socket(Mirror),,4,,,,,Working,,Steel
+5.8,BK12 End Stop v1(Mirror),BK12 End Stop v1(Mirror),,1,,,,,Working,,Steel
+5.9,91290A197_Alloy Steel Socket Head Screw,M5 0.8 45mm socket(Mirror),,10,,,,,Working,,Steel
+5.10,2025-09-30-19-50-33-937,servo spacer,,4,,,,,Working,,ABS Plastic
+5.11,M6 1.0 45mm socket,M6 1.0 45mm socket(Mirror),,4,,,,,Working,,Steel
+5.12,BF12 End Stop v1(Mirror),BF12 End Stop v1(Mirror),,1,,,,,Working,,Steel

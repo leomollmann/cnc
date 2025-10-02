@@ -39,6 +39,21 @@ My journey to learn and build a CNC from scratch, with no prior knowledge
 - [x] 1x [Aluminium Stock 1/2" 10cm x 10cm](https://www.aluminioalure.com.br/lisas) -> R$ 33
 - [ ] 1x [Aluminium Stock 1/2" 5cm x 50cm](https://www.mercadolivre.com.br/barra-chata-de-aluminio-2-x-12-508cm-x-127cm-com-50cm-compr/up/MLBU1961309005?pdp_filters=item_id:MLB1306872008) -> R$ 77
 - [x] 50x [T-Nut M5](https://oceantech-automation.com.br/produtos/porca-deslizante-martelo-t-slot-base-30/?variant=1194546188) -> R$ 75
-- [ ] 50x [M5 Screw x 10mm Flat]()
 - [x] 1x [Carbon Steel Sheet 45cm x 45xm x 2mm](https://www.mercadolivre.com.br/chapa-aco-carbono-20mm-espessura-45x45cm-lisa/up/MLBU754169705?pdp_filters=item_id:MLB2968203198) -> R$ 77
+- [x] 50x M5 Screw x 10mm dome
+- [x] 20x M6 1.0 45mm socket
+- [x] 29x M5 0.8 10mm socket
+- [x] 28x M5 0.8 25mm flat
+- [x] 17x M5 0.8 20mm dome
+- [x] 8x M5 0.8 35mm flat
+- [x] 30x M5 0.8 25mm socket
+- [x] 20x M5 0.8 45mm socket
+- [x] 10x M5 0.8 40mm socket     
+- [x] 4x M5 0.8 50mm socket
+- [x] 12x M5 0.8 35mm socket  
+- [x] 4x M8 1.25 25mm socket
+- [x] 16x M8 1.25 40mm socket
+- [x] 36x M5 0.8 nut         
+- [ ] 24x M4 40mm woodscrew
+
 https://www.lutecparafusoferramenta.com.br/parafuso-allen

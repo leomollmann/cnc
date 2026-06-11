@@ -25,6 +25,12 @@ My journey to learn and build a CNC from scratch, with no prior knowledge
 - [x] 2x [25cm Linear Rail 20mm](https://oceantech-automation.com.br/produtos/guia-linear-hgr20-valor-por-centimetro/?variant=385346549) -> R$ 90
 - [x] 3m [Shielded Wire 2.5mm](https://oceantech-automation.com.br/produtos/cabo-blindado-4-vias-25mm-preco-por-metro/?variant=386066255) -> R$ 77
 - [x] 20m [Pneumatic Hose 10mm](https://mercadolivre.com.br) -> R$ 75
+- [x] 4x [Hall effect endstop sensor](https://mercadolivre.com.br) -> R$ 106
+- [x] 1x [Selector switch](https://oceantech-automation.com.br) -> R$ 28
+- [x] 1x [Electrical box](https://oceantech-automation.com.br) -> R$ 220
+- [x] 1x [SMT32 bluepill](https://mercadolivre.com.br) -> $20
+- [] 2x [Earth bus]() # barramento terra
+- [] 5x [GX16 4 pins connector]()
 - [ ] 2x conector fêmea para mangueira 10mm
 - [ ] 1x [mini bomba 12v](https://mercadolivre.com.br) -> R$ 41
 - [ ] 1x sensor fluxo água
@@ -36,7 +42,7 @@ My journey to learn and build a CNC from scratch, with no prior knowledge
 - [x] 1x [Aluminium Stock 1/2" 15cm x 30cm](https://www.aluminioalure.com.br/lisas) -> R$ 135
 - [x] 1x [Aluminium Stock 1/2" 10cm x 15cm](https://www.aluminioalure.com.br/lisas) -> R$ 47
 - [x] 1x [Aluminium Stock 1/2" 5cm x 50cm](https://www.mercadolivre.com.br) -> R$ 77
-- [x] 50x [T-Nut M5](https://oceantech-automation.com.br) -> R$ 75
+- [x] 70x [T-Nut M5](https://oceantech-automation.com.br) -> R$ 100
 - [x] 1x [Carbon Steel Sheet 45cm x 45xm x 2mm](https://www.mercadolivre.com.br) -> R$ 77
 - [x] 1x [Aluminium Sheet 50cm x 50cm x 1.2mm](https://www.mercadolivre.com.br) -> R$ 70
 - [x] 50x M5 0.8 10mm dome
@@ -55,3 +61,16 @@ My journey to learn and build a CNC from scratch, with no prior knowledge
 - [x] 24x M4 40mm woodscrew
 
 * [screws](https://www.lutecparafusoferramenta.com.br) -> R$ 330
+
+Disjuntor Geral	20–25A Bipolar Curva C
+Disjuntor VDF
+Disjuntor Eletrônica
+DR 30mA	220V Bipolar 30mA
+Interruptor Geral	25A Bipolar fasceta	1
+E-Stop (Emergência)	Botão 220V reset 20A
+Filtro de Linha	220V 10A
+Relé Térmico	10–16A
+trilho disjuntor
+conectores para sensores na cnc
+chave seletora 20A
+https://www.extra.com.br/c/casa-e-construcao/eletrica-para-casa/disjuntores
